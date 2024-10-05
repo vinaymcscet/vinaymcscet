@@ -15,7 +15,7 @@ I am a frontend developer who loves React JS.
 <a href="https://www.github.com/vinaymcscet" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vinaymcscet?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<a href="https://roadmap.sh"><img src="[https://api.roadmap.sh/v1-badge/tall/65ba851d0c548122836e4beb?variant=dark](https://api.roadmap.sh/v1-badge/tall/65ba851d0c548122836e4beb?variant=dark)" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/65ba851d0c548122836e4beb?variant=dark" alt="roadmap.sh"/></a>
 
 ### Skills
 
